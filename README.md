@@ -1,6 +1,8 @@
 # reyes-paul-isaac-programacion-1
 Nombre: Paul Isaac Reyes Campos
+
 Curso: Programación 1
+
 Grupo: Creatividad Digital 2ndo Semestre
 
 ## Proposito del repositorio
