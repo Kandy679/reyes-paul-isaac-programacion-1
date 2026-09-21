@@ -10,6 +10,7 @@ Este repositorio tiene como objetivo guardar y organizar las evidencias de clase
 
 ## Estructura de carpetas
 La carpeta con el nombre "practicas" servirá para guardar las actividades y tareas realizadas en dicho curso, sirviendo como evidencia.
+
 La carpeta llamada "proyectos" almacenará (valga la redundancia) los proyectos asignados en el curso.
 
 
