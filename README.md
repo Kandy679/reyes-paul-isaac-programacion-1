@@ -1,4 +1,4 @@
-# reyes-paul-isaac-programacion-1
+# reyes-campos-paul-isaac-programacion-1
 Nombre: Paul Isaac Reyes Campos
 
 Curso: Programación 1
