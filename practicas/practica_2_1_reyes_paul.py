@@ -43,12 +43,8 @@ b = 76
 ##Ejercicio 7: Identificar tipos con type()##
 entero = 10
 decimales = 4.9
-texto = "holalo"
-
-delbuleano = 5
-buleano = True
-number=delbuleano == 5
-buleanito=number and delbuleano
+texto = "holalo"
+buleano = 3 < 5
 
 print (type(int))
 print (type(float))
